@@ -5,7 +5,7 @@ This repository contains prototype web Vaadin application deployed to Android
 
 How to run
 ----------
-* Install out\vaadin-dalvik-demo.apk application to your Android device.
+* Install out/vaadin-dalvik-demo.apk application to your Android device.
 * Run the app
 * Open web browser and visit http://localhost:8080/test?debug
 
